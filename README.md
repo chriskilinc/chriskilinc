@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[chriskilinc.com (portfolio)](https://www.chriskilinc.com/)  
-[Linkedin](https://www.linkedin.com/in/chriskilinc/)
+ [chriskilinc.com (portfolio)](https://www.chriskilinc.com/)  
+👨‍💻 [Linkedin](https://www.linkedin.com/in/chriskilinc/)
+💝 [ko-fi](https://ko-fi.com/chriskilinc)
 
 <!--
 **chriskilinc/chriskilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
