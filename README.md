@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [chriskilinc.com (portfolio)](https://www.chriskilinc.com/)  
+💼 [chriskilinc.com (portfolio)](https://www.chriskilinc.com/)  
 👨‍💻 [Linkedin](https://www.linkedin.com/in/chriskilinc/)  
 💝 [ko-fi](https://ko-fi.com/chriskilinc)  
 
