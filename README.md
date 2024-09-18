@@ -6,4 +6,4 @@
 🎹 [scale theory](https://www.scaletheory.chriskilinc.com/?ref=github.com)  
 
 👨‍💻 [Linkedin](https://www.linkedin.com/in/chriskilinc/)  
-💝 [ko-fi](https://ko-fi.com/chriskilinc)  
+💝 [ko-fi](https://ko-fi.com/cloudychris)  
